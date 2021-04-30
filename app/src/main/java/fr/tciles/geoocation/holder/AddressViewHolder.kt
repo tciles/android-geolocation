@@ -1,4 +1,4 @@
-package fr.tciles.geoocation.Holder
+package fr.tciles.geoocation.holder
 
 import android.widget.TextView
 

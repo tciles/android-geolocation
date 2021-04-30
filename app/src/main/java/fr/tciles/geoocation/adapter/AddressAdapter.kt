@@ -1,4 +1,4 @@
-package fr.tciles.geoocation.Adapter
+package fr.tciles.geoocation.adapter
 
 import android.content.Context
 import android.location.Address
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ArrayAdapter
 import android.widget.TextView
-import fr.tciles.geoocation.Holder.AddressViewHolder
+import fr.tciles.geoocation.holder.AddressViewHolder
 import fr.tciles.geoocation.R
 
 class AddressAdapter(context: Context, resource: Int, objects: List<Address>) :
